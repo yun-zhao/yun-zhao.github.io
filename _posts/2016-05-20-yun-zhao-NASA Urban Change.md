@@ -7,6 +7,6 @@ date: 2016-05-20
 Here I will provide a summary of the NASA-funded urban change project I worked and led in Summer 2016.
 
 
-![alt tag](http://pngimg.com/upload/tank_PNG1321.png)
+![alt tag](https://yun-zhao.github.io/Tank.jpg)
 
 --Yun Zhao
