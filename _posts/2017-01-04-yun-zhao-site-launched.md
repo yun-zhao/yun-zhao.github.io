@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Site Launched on Jan. 4th, 2017"
+date: 2017-01-04
 ---
 
 This is my first blog to celebrate the arrival of Erin!!
