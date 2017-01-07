@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+h3 {
+    text-decoration: none;
+    font-size: 1.7em;
+    color: #2200CC;
+}
