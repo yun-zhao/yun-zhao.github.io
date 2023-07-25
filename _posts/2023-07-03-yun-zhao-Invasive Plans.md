@@ -24,7 +24,7 @@ Here, we have included an image with an alternative text (Alt Text).
 
 ![alt tag](https://yun-zhao.github.io/Tank.jpg)
 
-![alt tag](https://yun-zhao.github.io/Proj_File/Novel CNN-1.png)
+![alt tag](https://yun-zhao.github.io/Proj_File/Novel_CNN-1.png)
 
 The Below image...
 ## Links
