@@ -25,8 +25,7 @@ Here, we have included an image with an alternative text (Alt Text).
 ![alt tag](https://yun-zhao.github.io/Tank.jpg)
 
 The below figure demonstrates the architecture of the proposed ntwork.
-
-![alt tag](https://yun-zhao.github.io/Proj_File/Novel_CNN-1.png)
+<img src="[https://media.licdn.com/dms/image/D5603AQGKL3vpcDQjGQ/profile-displayphoto-shrink_800_800/0/1676145315593?e=1695859200&v=beta&t=CoDttB0rnesycPkGbD5xGs4A1uaZjwHEETLcnirjQGc](https://yun-zhao.github.io/Proj_File/Novel_CNN-1.png)" alt="Alt Text" width="300">
 
 The below figure shows the evaluation results for the propossed methods and ResNet50 on the data set.
 
