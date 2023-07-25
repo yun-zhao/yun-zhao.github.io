@@ -18,23 +18,26 @@ land conservation areas.
 
 ## Illustration
 
-<img src="https://media.licdn.com/dms/image/D5603AQGKL3vpcDQjGQ/profile-displayphoto-shrink_800_800/0/1676145315593?e=1695859200&v=beta&t=CoDttB0rnesycPkGbD5xGs4A1uaZjwHEETLcnirjQGc" alt="Alt Text" width="300">
+The below figure demonstrates the architecture of the proposed network.
 
-Here, we have included an image with an alternative text (Alt Text).
+<div style="text-align:center">
+  <img src="https://yun-zhao.github.io/Proj_File/Novel_CNN-1.png" alt="Description of the image" width="200">
+</div>
 
-![alt tag](https://yun-zhao.github.io/Tank.jpg)
 
-The below figure demonstrates the architecture of the proposed ntwork.
-<img src="[https://media.licdn.com/dms/image/D5603AQGKL3vpcDQjGQ/profile-displayphoto-shrink_800_800/0/1676145315593?e=1695859200&v=beta&t=CoDttB0rnesycPkGbD5xGs4A1uaZjwHEETLcnirjQGc](https://yun-zhao.github.io/Proj_File/Novel_CNN-1.png)" alt="Alt Text" width="300">
+Here is the evaluation results for the propossed methods and ResNet50 on the data set.
 
-The below figure shows the evaluation results for the propossed methods and ResNet50 on the data set.
+<div style="text-align:center">
+  <img src="https://yun-zhao.github.io/Proj_File/Novel_CNN-2.png" alt="Description of the image" width="700">
+</div>
 
-![alt tag](https://yun-zhao.github.io/Proj_File/Novel_CNN-2.png)
+This below figure is an visualization of how the predicted results (outlined in yellow) match the ground truth (outlined in red).
 
-The below figure shows the predicted results (outlined in yellow) match the ground truth (outlined in red).
+<div style="text-align:center">
+  <img src="https://yun-zhao.github.io/Proj_File/Novel_CNN-3.PNG" alt="Description of the image" width="500">
+</div>
 
-![alt tag](https://yun-zhao.github.io/Proj_File/Novel_CNN-3.png)
 
 ## Links
 
-For full peer-reviewed published paper, click [here] (https://github.com). 
+For full peer-reviewed published paper, click [here](https://github.com). 
