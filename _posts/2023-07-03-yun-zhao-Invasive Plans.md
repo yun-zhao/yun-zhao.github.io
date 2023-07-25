@@ -24,9 +24,18 @@ Here, we have included an image with an alternative text (Alt Text).
 
 ![alt tag](https://yun-zhao.github.io/Tank.jpg)
 
+The below figure demonstrates the architecture of the proposed ntwork.
+
 ![alt tag](https://yun-zhao.github.io/Proj_File/Novel_CNN-1.png)
 
-The Below image...
+The below figure shows the evaluation results for the propossed methods and ResNet50 on the data set.
+
+![alt tag](https://yun-zhao.github.io/Proj_File/Novel_CNN-2.png)
+
+The below figure shows the predicted results (outlined in yellow) match the ground truth (outlined in red).
+
+![alt tag](https://yun-zhao.github.io/Proj_File/Novel_CNN-3.png)
+
 ## Links
 
 For full peer-reviewed published paper, click [here] (https://github.com). 
