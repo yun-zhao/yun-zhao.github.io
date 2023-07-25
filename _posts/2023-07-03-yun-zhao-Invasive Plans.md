@@ -6,7 +6,7 @@ date: 2023-07-20
 
 ## Summary
 This study develops a novel deep learning model using a UAS and associated
-geographic information system (GIS) to detect and identify invasive Phragmites australis (PA) in its early growth stage.
+**geographic information system (GIS)** to detect and identify invasive Phragmites australis (PA) in its early growth stage.
 This novel network, integrating a **convolutional neural network (CNN)** and a **recurrent neural network (RNN)**, proves to be
 an efficient and accurate method to detect PA in time series UAS images. CNN is good at extracting spatial features on
 images, and RNN excels in processing temporal features. Temporal features of the time series UAS images are extracted
