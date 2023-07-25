@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Urban Change Projects Summer 2016"
+title: "Invasive Plants Detection Using Computer Vision"
 date: 2016-05-20
 ---
 
