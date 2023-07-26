@@ -5,7 +5,7 @@ date: 2023-07-20
 ---
 
 ## Summary
-This study develops a novel deep learning model using a UAS and associated
+This study develops a novel deep learning model using a unmanned aerial vehicle (UAV) and associated
 **geographic information system (GIS)** to detect and identify invasive Phragmites australis (PA) in its early growth stage.
 This novel network, integrating a **convolutional neural network (CNN)** and a **recurrent neural network (RNN)**, proves to be
 an efficient and accurate method to detect PA in time series UAS images. CNN is good at extracting spatial features on
@@ -40,4 +40,4 @@ This below figure is an visualization of how the predicted results (outlined in 
 
 ## Links
 
-For full peer-reviewed published paper, click [here](https://github.com). 
+For full peer-reviewed published paper, click [here](https://www.dropbox.com/scl/fi/se2e4q7rqxynl5mfdtygu/A-novel-invasive-plant-detection-approach-using-time-series-images-from-unmanned-aerial-systems-based-on-convolutional-and-recurrent-neural-networks.pdf?rlkey=yyt3x57ur8tey2r7m51an6y99&dl=0). 
