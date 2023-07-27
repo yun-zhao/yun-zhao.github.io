@@ -2,6 +2,7 @@
 layout: post
 title: "Climate Variability Study"
 date: 2018-10-03
+thumb: "https://yun-zhao.github.io/Proj_File/HSR-1.jpg"
 ---
 
 ## Summary

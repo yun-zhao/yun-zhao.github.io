@@ -2,6 +2,7 @@
 layout: post
 title: "Two-level K-nearest neighbors approach for invasive plants detection and classification"
 date: 2021-05-04
+thumb: "https://yun-zhao.github.io/Proj_File/KNN-1.jpg"
 ---
 
 ## Summary
