@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Yun Zhao's Projects 2023-07
+title: Yun Zhao's Projects
 ---
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
 
 	  {% for post in site.posts %}
 
-	    <li> <a href="{{ post.url }}" title="{{ post.title }}"><div class="thumb-wrap"><img src="{{ post.thumb }}"  width="100%"></div><div class="title-wrap">{{ post.title }}</div><span>{{ post.date | date_to_string }}</span></a></li>
+	    <li> <a href="{{ post.url }}" title="{{ post.title }}"><div class="thumb-wrap"><img src="{{ post.thumb }}"  width="100%"></div><div class="title-wrap">{{ post.title }}</div></a></li>
 
 	  {% endfor %}
 	</ul>
