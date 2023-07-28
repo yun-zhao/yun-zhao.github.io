@@ -2,7 +2,7 @@
 layout: post
 title: "Using Convolutional and Rrcurrent Neural Netowrks (CNN & RNN) for Invasive Plants Detection"
 date: 2023-07-20
-thumb: "https://yun-zhao.github.io/Proj_File/Novel_CNN-1.png"
+thumb: "https://yun-zhao.github.io/Proj_File/Novel_CNN.jpg"
 ---
 
 ## Summary
