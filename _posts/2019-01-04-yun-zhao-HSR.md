@@ -2,7 +2,7 @@
 layout: post
 title: "High-speed Rail Feasiblity Study in the U.S."
 date: 2019-01-04
-thumb: "https://yun-zhao.github.io/Proj_File/HSR-1.jpg"
+thumb: "https://yun-zhao.github.io/Proj_File/HSR.jpg"
 ---
 
 ## Summary
