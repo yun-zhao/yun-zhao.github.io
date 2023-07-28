@@ -85,3 +85,41 @@ h3 {
     font-size: 1.7em;
     color: #2200CC;
 }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 575.98px) {
+    .projects-grid {
+       grid-template-columns: 1fr;
+    }
+    .section-title {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .openning p {
+        padding: 0 15px;
+    }
+
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+    .projects-grid {
+       grid-template-columns: 1fr 1fr;
+    }
+
+}
+/* // Large devices (desktops, 992px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991.98px)  {
+    .projects-grid {
+        grid-template-columns: 1fr 1fr;
+         grid-template-rows: (auto*6);
+     }
+}
+/* // Extra large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+/* // Extra large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
