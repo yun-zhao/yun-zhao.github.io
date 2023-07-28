@@ -33,8 +33,11 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
+ul {
     padding-inline-start: 0px;
+}
+
+ul.posts { 
     display: grid;
     grid-template-rows: auto auto auto auto auto;
     grid-template-columns: 1fr 1fr 1fr;
@@ -53,7 +56,7 @@ ul.posts li {
 }
 
 ul.posts li:hover {
-    box-shadow: var(--normal-shadow);
+
 }
 
 ul.posts li span {
