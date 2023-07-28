@@ -2,7 +2,7 @@
 layout: post
 title: "Spatial and temporal variations of aerosol optical thickness"
 date: 2021-10-03
-thumb: "https://yun-zhao.github.io/Proj_File/HSR-1.jpg"
+thumb: "https://yun-zhao.github.io/Proj_File/Aerosol.jpg"
 ---
 
 ## Summary
