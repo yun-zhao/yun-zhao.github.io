@@ -7,7 +7,7 @@ title: Yun Zhao's Projects 2023-07
 
 	  {% for post in site.posts %}
 
-	    <li><img src="{{ post.thumb }}"  width="200"><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li><br>
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}"><div class="thumb-wrap"><img src="{{ post.thumb }}"  width="200"></a></div><div class="title-wrap">{{ post.title }}</div></li><br>
 
 	  {% endfor %}
 	</ul>

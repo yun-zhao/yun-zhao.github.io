@@ -51,6 +51,25 @@ ul.posts li {
     transition: box-shadow .5s;
 }
 
+.thumb-wrap {
+ 
+    height: 250px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.title-wrap {
+    background: #FFF;
+    padding: 5px 15px;
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
 h3 {
     text-decoration: none;
     font-size: 1.7em;
