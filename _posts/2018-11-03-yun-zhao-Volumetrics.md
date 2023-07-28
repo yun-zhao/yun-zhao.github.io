@@ -2,7 +2,7 @@
 layout: post
 title: "Volumetrics"
 date: 2018-11-03
-thumb: "https://yun-zhao.github.io/Proj_File/HSR-1.jpg"
+thumb: "https://yun-zhao.github.io/Proj_File/Volumetrics.jpg"
 ---
 
 ## Summary
