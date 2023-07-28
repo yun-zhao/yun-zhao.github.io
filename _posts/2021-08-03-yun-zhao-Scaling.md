@@ -2,7 +2,7 @@
 layout: post
 title: "Scaling Spatial Pattern Metrics"
 date: 2021-08-03
-thumb: "https://yun-zhao.github.io/Proj_File/Scaling.jpg"
+thumb: "https://yun-zhao.github.io/Proj_File/Scaling.JPG"
 ---
 
 ## Summary
