@@ -2,7 +2,7 @@
 layout: post
 title: "Urban Poulation Estimation Using Lidar"
 date: 2016-05-20
-thumb: "https://yun-zhao.github.io/Proj_File/HSR-1.jpg" 
+thumb: "https://yun-zhao.github.io/Proj_File/Pop.jpg" 
 ---
 
 ## Summary
