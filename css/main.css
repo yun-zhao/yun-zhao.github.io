@@ -55,6 +55,10 @@ ul.posts li {
     transition: box-shadow .5s;
 }
 
+ul.posts li a {
+    color: #333;
+}
+
 ul.posts li:hover {
 
 }
