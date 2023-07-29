@@ -61,6 +61,7 @@ ul.posts li a {
 }
 
 ul.posts li:hover {
+    box-shadow: 10px 0 0 #484848, -10px 0 0 #363636;
 
 }
 
