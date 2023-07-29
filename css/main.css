@@ -54,6 +54,7 @@ ul.posts li {
     border: #e7e7e7 solid 1px;
     position: relative;
     transition: box-shadow .5s;
+
 }
 
 ul.posts li a {
@@ -99,6 +100,9 @@ h3 {
 @media only screen and (max-width: 575.98px) {
     ul.posts {
        grid-template-columns: 1fr;
+    }
+    ul.posts li {
+        display: block;
     }
     .title-wrap{
         font-size: 24px;
