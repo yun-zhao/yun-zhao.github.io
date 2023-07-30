@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Scaling Spatial Pattern Metrics"
+title: "Scaling Spatial Pattern Metrics: Impacts of Composition and Configuration on Downscaling Accuracy"
 date: 2021-08-03
 thumb: "https://yun-zhao.github.io/Proj_File/Scaling.jpg"
 ---
 
 ## Summary
-This study evaluates the feasibility of high-speed rail in the United States based on a newly proposed **door-to-door travel time (DTDTT) approach**. The proposed DTDTT approach incporates trip segments within cities (such as trips made to access and egress from train station and airports), and is able to delineate HSR advantages over existing air and auto travels within cities in a spaitally explicit way.  A case study is carried out using the Dallas-Houston corridor to analyze and visualize how the proposed HSR service competes with existing intercity travel modes, including air and auto travels. The study provides more meaningful ways to perform HSR feasibility study, and helps transportation and urban planners make informed decisions on the possible adoption of HSR in the US context.   
+This study evaluate how changes in composition/configuration produced by coarse graining affect scaling function fit and the accuracy of that function for predicting patterns at finer resolutions than observed. Neutral model landscapes with controlled composition/configuration were generated in QRule. Each raster was aggregated to seven coarser resolutions, and landscape metrics computed. Five scaling functions were fit to the seven-value set for each landscape and metric. The best-performing function for each landscape/metric was downscaled to predict the metric at a fine resolution not used in the scale-fitting process. Downscaling accuracy was measured through relative error. Results show aggregation impacts the fit and use of scaling functions for downscaling/prediction. Research to differentiate aggregation effects from physical processes in complex, real-world landscapes is needed.
 
 ## Illustration
 
-The below figure illustrates the key segments of intercity trips to represent the proposed door-to-door travel time approach.
+The below figure shows examples of neutral model landscapes aggregated from 60 to 480 m with constant proportion **P** (0.5) but varying **H** values a 0.0, b 0.5, and c 0.95. **H** is a built-in heterogeneity parameter in QRule.
 
 <div style="text-align:center">
   <img src="https://yun-zhao.github.io/Proj_File/HSR-1.jpg" alt="Description of the image" width="500">
