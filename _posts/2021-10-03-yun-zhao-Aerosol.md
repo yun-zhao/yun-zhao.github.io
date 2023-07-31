@@ -6,30 +6,25 @@ thumb: "https://yun-zhao.github.io/Proj_File/Aerosol.jpg"
 ---
 
 ## Summary
-This study evaluates the feasibility of high-speed rail in the United States based on a newly proposed **door-to-door travel time (DTDTT) approach**. The proposed DTDTT approach incporates trip segments within cities (such as trips made to access and egress from train station and airports), and is able to delineate HSR advantages over existing air and auto travels within cities in a spaitally explicit way.  A case study is carried out using the Dallas-Houston corridor to analyze and visualize how the proposed HSR service competes with existing intercity travel modes, including air and auto travels. The study provides more meaningful ways to perform HSR feasibility study, and helps transportation and urban planners make informed decisions on the possible adoption of HSR in the US context.   
+Aerosols not only affect air quality and human health, but also impact global climate change through direct and indirect radiative forcing. Deposited aerosols can impact nutrients and toxic element availability, ocean biogeochemistry, primary productivity, and carbon cycling. It is thus critical to understand the role and cycle of aerosols as a contributing factor in this issues. In this study, **Six years of hourly aerosol optical thickness (AOT) data retrieved from Himawari-8** were used to investigate the spatial and temporal variations, especially diurnal variations, of aerosols over the China Seas. The spatial feature showed that AOT over high latitude seas was generally larger than over low latitude seas, and it is distributed in strips along the coastline and decreases gradually with increasing distance from the coastline. The monthly variation in AOT showed a pronounced annual cycle. Seasonal variations of the spatial pattern showed that the largest AOT was usually observed in spring and varies in other seasons for different seas.
 
 ## Illustration
 
-The below figure illustrates the key segments of intercity trips to represent the proposed door-to-door travel time approach.
+The below figure illustrates the workflow and key findings of this study. The left graph shows the design of this study: two data sources were used and validated to map out the spatila distribution of ocean AOT. On the right, AOT variations were plotted/mapped at the diurnal, monthly, and seasonal levels, with some common traits identified.   
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HSR-1.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/aerosol-1.jpg" alt="Description of the image" width="500">
 </div>
 
 
-Here is a map showing the proposed high-speed rail line between Dallas and Houston, along with existing trasnsportation infrastructures the support inter-city travels, such as airports and interstate highway.
+The below scatter plots shows the hourly level 3 Himalaya8_AOT and AERONET data at different stations for data validation purposes. 
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HSR-2.jpg" alt="Description of the image" width="400">
+  <img src="https://yun-zhao.github.io/Proj_File/aerosol-2.jpg" alt="Description of the image" width="400">
 </div>
 
-This below figure is an visualization of produced by the proposed method, showing advantages of different travel modes in Houston.  Red area indicates where HSR will have shorter total travel time, green area indicate areas where Airport Hobby will have advantage, and Purple indicate areas where Airport Geirge Bush will have advantage.   
-
-<div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HRS-3.jpg" alt="Description of the image" width="500">
-</div>
 
 
 ## Links
 
-For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/zlhi1owh4o3pg8tjc6nkk/HSR.pdf?rlkey=0rxopmyxipvf4k9nfej6mjvjg&dl=0" target="_blank">here.</a>
+For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/peuz508e0wpz8j2cicoy4/Aerosol.pdf?rlkey=nmud7nhcmg7vmwv728sc4lb1l&dl=0" target="_blank">here.</a>
