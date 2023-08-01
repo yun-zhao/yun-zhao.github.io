@@ -13,14 +13,14 @@ This study develops a framework that incorporates land system architecture (LA),
 The below figure illustrates the proposed framework for coupled human and natural systems (CHANS) studies. Linkages between human action, landscape patterns, and social and ecological processes occur at each level—the local level is highlighted here, with governance as an example. Multi-level/scalar couplings between the individual components also occur across levels/scales
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/land-1.PNG" alt="Description of the image" width="700">
+  <img src="https://yun-zhao.github.io/Proj_File/land-1.png" alt="Description of the image" width="700">
 </div>
 
 
 This proposed framework was applied to study the associations of water levels of the High Plains Aquifer, land tenure/governance practice, and landscape metrics. Results show land use patterns vary significantly in and out of cluster of significant aqufer decline. 
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/land-2.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/land-2.JPG" alt="Description of the image" width="500">
 </div>
 
 ## Links
