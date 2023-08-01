@@ -6,30 +6,30 @@ thumb: "https://yun-zhao.github.io/Proj_File/Pop.jpg"
 ---
 
 ## Summary
-This study evaluates the feasibility of high-speed rail in the United States based on a newly proposed **door-to-door travel time (DTDTT) approach**. The proposed DTDTT approach incporates trip segments within cities (such as trips made to access and egress from train station and airports), and is able to delineate HSR advantages over existing air and auto travels within cities in a spaitally explicit way.  A case study is carried out using the Dallas-Houston corridor to analyze and visualize how the proposed HSR service competes with existing intercity travel modes, including air and auto travels. The study provides more meaningful ways to perform HSR feasibility study, and helps transportation and urban planners make informed decisions on the possible adoption of HSR in the US context.   
+ The purpose of this work is to estimate work and home population use lidar-derived building volumes.  Previous studies have noted inconsistencies between population and building volume estimates in certain areas. This study investigate this disparity by incorporating both static and ambient population data into the models using the US Census Bureau’s Longitudinal Employer-Household Dynamics (LEHD) database. To do this, we first develop a normalized home–work index to classify census blocks as primarily work-oriented, home-oriented, or mixed-use based on the LEHD data. We then employ ordinary least squares and geographically weighted regression (GWR) to explore the relationships between the different population groups (work, home, and mixed) and lidar-derived building volumes. We test these relationships across four diverse cities in Texas: Austin, Dallas, Houston, and San Antonio. Results suggest non-stationarity in the relationship between building volume and population with stronger, positive relationships in home-oriented and mixed-use blocks where the amount of building volume per person may be more consistent compared to work-oriented blocks. GWR models yielded high R2 values (0.9), particularly in mixed-use areas, indicating the potential for predictive relationships. 
 
 ## Illustration
 
-The below figure illustrates the key segments of intercity trips to represent the proposed door-to-door travel time approach.
+A confounding factor in the over- and underestimation of population from building volume is the intermixing of the diurnal working and residential populations within blocks and individual buildings. To overcome this constraint, we developed a NHWI (similar to Normalized Difference Vegetation Index, aka. NDVI) to control for the amalgamation of working and residential populations at the block level. Counts are normalized to provide a standardized range of values from −1 to 1 with negative values indicating the block contains a greater relative ‘home’ population, and positive values indicating the block contains a greater ‘work’ population.  
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HSR-1.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/pop-1.jpg" alt="Description of the image" width="500">
 </div>
 
 
-Here is a map showing the proposed high-speed rail line between Dallas and Houston, along with existing trasnsportation infrastructures the support inter-city travels, such as airports and interstate highway.
+The proposed index and methods are applied to four major cities in Texas: Austin, Dallas, San Antonio, and Houston.
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HSR-2.jpg" alt="Description of the image" width="400">
+  <img src="https://yun-zhao.github.io/Proj_File/pop-2.jpg" alt="Description of the image" width="400">
 </div>
 
-This below figure is an visualization of produced by the proposed method, showing advantages of different travel modes in Houston.  Red area indicates where HSR will have shorter total travel time, green area indicate areas where Airport Hobby will have advantage, and Purple indicate areas where Airport Geirge Bush will have advantage.   
+GWR  is a local statistical technique for exploring spatial variations in relationships across space and can account for the spatial non-stationarity in the effect of independent variables often present in OLS regression. GWR allows the weights of observations to vary such that observations closer to the block being assessed are given a greater weight than observations further away. The below table shows the improvements of GWR compared to traditional OLS linear regression.   
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HRS-3.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/pop-3.jpg" alt="Description of the image" width="500">
 </div>
 
 
 ## Links
 
-For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/zlhi1owh4o3pg8tjc6nkk/HSR.pdf?rlkey=0rxopmyxipvf4k9nfej6mjvjg&dl=0" target="_blank">here.</a>
+For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/l8rlm9zpwrw5wr0expg6d/Estimating-work-and-home-population-using-lidar-derived-building-volumes.pdf?rlkey=68gc18dbxfb4o5nctf5gqeplg&dl=0" target="_blank">here.</a>
