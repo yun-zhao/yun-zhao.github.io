@@ -13,13 +13,13 @@ This study evaluate how changes in composition/configuration produced by coarse 
 The below figure shows examples of neutral model landscapes aggregated from 60 to 480 m with constant proportion **P** (0.5) but varying **H** values a 0.0, b 0.5, and c 0.95. **H** is a built-in heterogeneity parameter in QRule.
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/scaling-1.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/scaling-1.jpg" alt="Description of the image" width="550">
 </div>
 
 The below figure shows the average relative downscaling error across all proportion (P) and heterogeneity (H) combinations. Warmer tones denote higher relative errors (worse downscaling), and cooler tones denote lower relative errors (improved downscaling).
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/scaling-2.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/scaling-2.jpg" alt="Description of the image" width="550">
 </div>
 
 ## Links
