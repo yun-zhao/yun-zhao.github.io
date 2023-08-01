@@ -2,7 +2,7 @@
 layout: post
 title: "Satellite scatterometer estimation of urban built-up volume: Validation with airborne lidar data"
 date: 2019-08-01
-thumb: "https://yun-zhao.github.io/Proj_File/HSR.jpg"
+thumb: "https://yun-zhao.github.io/Proj_File/radar.png"
 ---
 
 ## Summary
