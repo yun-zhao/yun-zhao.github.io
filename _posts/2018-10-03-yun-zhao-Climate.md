@@ -6,7 +6,7 @@ thumb: "https://yun-zhao.github.io/Proj_File/Climate.jpg"
 ---
 
 ## Summary
-This study develops a framework that incorporates land system architecture (LA), landscape ecology (LE), and governance theory. Public land and water are commons resources threatened by overuse, degradation, and climate change. Resource use is exacerbated by public land and water policies at the state- and local-levels. Our framework provides a foundation for investigating the mechanisms of land systems science (LSS) couplings across multiple levels/scales to understand how and why governance impacts human LULCC decisions (LA) and how those LULCC patterns influence, and are influenced by, the underlying ecological processes (LE). This framework provides a mechanism for investigating the feedbacks between and among the different system components in a CHANS that subsequently impact future human design decisions.
+This study develops a framework that incorporates land system architecture (LA), landscape ecology (LE), and governance theory. Public land and water are commons resources threatened by overuse, degradation, and climate change. Resource use is exacerbated by public land and water policies at the state- and local-levels. Our framework provides a foundation for investigating the mechanisms of land systems science (LSS) couplings across multiple levels/scales to understand how and why governance impacts human LULCC decisions (LA) and how those LULCC patterns influence, and are influenced by, the underlying ecological processes (LE). This framework provides a mechanism for investigating the feedbacks between and among the different system components in a coupled human and natural systems (CHANS) that subsequently impact future human design decisions.
 
 ## Illustration
 
