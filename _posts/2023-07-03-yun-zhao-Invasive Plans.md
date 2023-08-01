@@ -41,4 +41,4 @@ This below figure is an visualization of how the predicted results (outlined in 
 
 ## Links
 
-For full peer-reviewed published paper, click [here](https://www.dropbox.com/scl/fi/se2e4q7rqxynl5mfdtygu/A-novel-invasive-plant-detection-approach-using-time-series-images-from-unmanned-aerial-systems-based-on-convolutional-and-recurrent-neural-networks.pdf?rlkey=yyt3x57ur8tey2r7m51an6y99&dl=0). 
+For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/se2e4q7rqxynl5mfdtygu/A-novel-invasive-plant-detection-approach-using-time-series-images-from-unmanned-aerial-systems-based-on-convolutional-and-recurrent-neural-networks.pdf?rlkey=yyt3x57ur8tey2r7m51an6y99&dl=0" target="_blank">here.</a>
