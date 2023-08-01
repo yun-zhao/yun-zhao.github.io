@@ -13,23 +13,15 @@ This study evaluate how changes in composition/configuration produced by coarse 
 The below figure shows examples of neutral model landscapes aggregated from 60 to 480 m with constant proportion **P** (0.5) but varying **H** values a 0.0, b 0.5, and c 0.95. **H** is a built-in heterogeneity parameter in QRule.
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HSR-1.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/scaling-1.jpg" alt="Description of the image" width="500">
 </div>
 
-
-Here is a map showing the proposed high-speed rail line between Dallas and Houston, along with existing trasnsportation infrastructures the support inter-city travels, such as airports and interstate highway.
+The below figure shows the average relative downscaling error across all proportion (P) and heterogeneity (H) combinations. Warmer tones denote higher relative errors (worse downscaling), and cooler tones denote lower relative errors (improved downscaling).
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HSR-2.jpg" alt="Description of the image" width="400">
+  <img src="https://yun-zhao.github.io/Proj_File/scaling-2.jpg" alt="Description of the image" width="500">
 </div>
-
-This below figure is an visualization of produced by the proposed method, showing advantages of different travel modes in Houston.  Red area indicates where HSR will have shorter total travel time, green area indicate areas where Airport Hobby will have advantage, and Purple indicate areas where Airport Geirge Bush will have advantage.   
-
-<div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HRS-3.jpg" alt="Description of the image" width="500">
-</div>
-
 
 ## Links
 
-For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/zlhi1owh4o3pg8tjc6nkk/HSR.pdf?rlkey=0rxopmyxipvf4k9nfej6mjvjg&dl=0" target="_blank">here.</a>
+For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/phszcdvwagcxhva0unwc8/Spatial-Scaling.pdf?rlkey=gt1zw6iqpo6gkfad586fmp432&dl=0" target="_blank">here.</a>
