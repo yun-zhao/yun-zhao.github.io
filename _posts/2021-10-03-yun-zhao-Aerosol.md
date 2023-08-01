@@ -12,20 +12,20 @@ Aerosols not only affect air quality and human health, but also impact global cl
 The below figure shows the study area (which includes the China Seas) and the location of AERONET sites.  Color indicate topography. 
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/aerosol-1.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/aerosol-1.jpg" alt="Description of the image" width="400">
 </div>
 
 The below figure illustrates the workflow and key findings of this study. The left graph shows the design of this study: two data sources were used and validated to map out the spatila distribution of ocean AOT. On the right, AOT variations were plotted/mapped at the diurnal, monthly, and seasonal levels, with some common traits identified.   
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/aerosol-2.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/aerosol-2.jpg" alt="Description of the image" width="700">
 </div>
 
 
-The below scatter plots shows the hourly level 3 Himalaya8_AOT and AERONET data at different stations for data validation purposes. 
+The below scatter plots shows the hourly level 3 Himalaya8 AOT and AERONET data at different stations for data validation purposes. 
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/aerosol-3.jpg" alt="Description of the image" width="400">
+  <img src="https://yun-zhao.github.io/Proj_File/aerosol-3.jpg" alt="Description of the image" width="700">
 </div>
 
 
