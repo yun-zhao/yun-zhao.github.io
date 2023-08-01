@@ -6,30 +6,23 @@ thumb: "https://yun-zhao.github.io/Proj_File/Climate.jpg"
 ---
 
 ## Summary
-This study evaluates the feasibility of high-speed rail in the United States based on a newly proposed **door-to-door travel time (DTDTT) approach**. The proposed DTDTT approach incporates trip segments within cities (such as trips made to access and egress from train station and airports), and is able to delineate HSR advantages over existing air and auto travels within cities in a spaitally explicit way.  A case study is carried out using the Dallas-Houston corridor to analyze and visualize how the proposed HSR service competes with existing intercity travel modes, including air and auto travels. The study provides more meaningful ways to perform HSR feasibility study, and helps transportation and urban planners make informed decisions on the possible adoption of HSR in the US context.   
+This study develops a framework that incorporates land system architecture (LA), landscape ecology (LE), and governance theory. Public land and water are commons resources threatened by overuse, degradation, and climate change. Resource use is exacerbated by public land and water policies at the state- and local-levels. Our framework provides a foundation for investigating the mechanisms of land systems science (LSS) couplings across multiple levels/scales to understand how and why governance impacts human LULCC decisions (LA) and how those LULCC patterns influence, and are influenced by, the underlying ecological processes (LE). This framework provides a mechanism for investigating the feedbacks between and among the different system components in a CHANS that subsequently impact future human design decisions.
 
 ## Illustration
 
-The below figure illustrates the key segments of intercity trips to represent the proposed door-to-door travel time approach.
+The below figure illustrates the proposed framework for coupled human and natural systems (CHANS) studies. Linkages between human action, landscape patterns, and social and ecological processes occur at each level—the local level is highlighted here, with governance as an example. Multi-level/scalar couplings between the individual components also occur across levels/scales
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HSR-1.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/land-1.jpg" alt="Description of the image" width="700">
 </div>
 
 
-Here is a map showing the proposed high-speed rail line between Dallas and Houston, along with existing trasnsportation infrastructures the support inter-city travels, such as airports and interstate highway.
+This proposed framework was applied to study the associations of water levels of the High Plains Aquifer, land tenure/governance practice, and landscape metrics. Results show land use patterns vary significantly in and out of cluster of significant aqufer decline. 
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HSR-2.jpg" alt="Description of the image" width="400">
+  <img src="https://yun-zhao.github.io/Proj_File/land-2.jpg" alt="Description of the image" width="500">
 </div>
-
-This below figure is an visualization of produced by the proposed method, showing advantages of different travel modes in Houston.  Red area indicates where HSR will have shorter total travel time, green area indicate areas where Airport Hobby will have advantage, and Purple indicate areas where Airport Geirge Bush will have advantage.   
-
-<div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/HRS-3.jpg" alt="Description of the image" width="500">
-</div>
-
 
 ## Links
 
-For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/zlhi1owh4o3pg8tjc6nkk/HSR.pdf?rlkey=0rxopmyxipvf4k9nfej6mjvjg&dl=0" target="_blank">here.</a>
+For full peer-reviewed published paper, click <a href="https://www.dropbox.com/scl/fi/cisrxiocg5amgquuqta2p/Land.pdf?rlkey=8lfuye06062s79af13u4zmr78&dl=0" target="_blank">here.</a> For full related poster, click <a href="https://www.dropbox.com/scl/fi/9cny42d9ibdoij3p3dnfh/Land_Poster.pdf?rlkey=5vns19fjlbx13yqw44r2593bg&dl=0" target="_blank">here.</a> 
