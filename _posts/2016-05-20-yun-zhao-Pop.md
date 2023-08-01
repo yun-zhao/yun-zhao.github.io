@@ -13,20 +13,20 @@ thumb: "https://yun-zhao.github.io/Proj_File/Pop.jpg"
 A confounding factor in the over- and underestimation of population from building volume is the intermixing of the diurnal working and residential populations within blocks and individual buildings. To overcome this constraint, we developed a NHWI (similar to Normalized Difference Vegetation Index, aka. NDVI) to control for the amalgamation of working and residential populations at the block level. Counts are normalized to provide a standardized range of values from −1 to 1 with negative values indicating the block contains a greater relative ‘home’ population, and positive values indicating the block contains a greater ‘work’ population.  
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/pop-1.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/pop-1.JPG" alt="Description of the image" width="500">
 </div>
 
 
 The proposed index and methods are applied to four major cities in Texas: Austin, Dallas, San Antonio, and Houston.
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/pop-2.jpg" alt="Description of the image" width="400">
+  <img src="https://yun-zhao.github.io/Proj_File/pop-2.jpeg" alt="Description of the image" width="400">
 </div>
 
 GWR  is a local statistical technique for exploring spatial variations in relationships across space and can account for the spatial non-stationarity in the effect of independent variables often present in OLS regression. GWR allows the weights of observations to vary such that observations closer to the block being assessed are given a greater weight than observations further away. The below table shows the improvements of GWR compared to traditional OLS linear regression.   
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/pop-3.jpg" alt="Description of the image" width="500">
+  <img src="https://yun-zhao.github.io/Proj_File/pop-3.JPG" alt="Description of the image" width="500">
 </div>
 
 
