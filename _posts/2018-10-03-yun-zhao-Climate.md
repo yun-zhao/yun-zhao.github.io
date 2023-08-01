@@ -13,7 +13,7 @@ This study develops a framework that incorporates land system architecture (LA),
 The below figure illustrates the proposed framework for coupled human and natural systems (CHANS) studies. Linkages between human action, landscape patterns, and social and ecological processes occur at each level—the local level is highlighted here, with governance as an example. Multi-level/scalar couplings between the individual components also occur across levels/scales
 
 <div style="text-align:center">
-  <img src="https://yun-zhao.github.io/Proj_File/land-1.jpg" alt="Description of the image" width="700">
+  <img src="https://yun-zhao.github.io/Proj_File/land-1.PNG" alt="Description of the image" width="700">
 </div>
 
 
